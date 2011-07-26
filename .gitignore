@@ -5,4 +5,5 @@ log/*.log
 /tmp/
 doc/
 *~
+*.swp
 nbproject/
